@@ -1,0 +1,14 @@
+{
+  "name": "default",
+  "version": "0.0.1",
+  "description": "A starting points for certain projects.",
+  "homepage": "https://kennethormandy.com",
+  "author": "Kenneth Ormandy <hello@kennethormandy.com> (http://kennethormandy.com)",
+  "license": "MIT",
+  "private": true,
+  "repository": "git@github.com:kennethormandy/default.git",
+  "keywords": [],
+  "scripts": {
+    "test": "echo \"Error: no test specified…yet! Pull requests on kennethormandy/default are greatly appriciated.\" && exit 1"
+  }
+}
