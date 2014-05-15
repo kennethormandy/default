@@ -51,7 +51,7 @@ We love pull requests. Here’s a quick guide:
 
 8. Enjoy being the wonderful person you are
 
-  After you’ve opened your pull request, [you should email me](kenneth@chloi.io) your mailing address so I can mail you a personal thank you note. Seriously!
+  After you’ve opened your pull request, [you should email me](mailto:hello@kennethormandy.com) your mailing address so I can mail you a personal thank you note. Seriously!
 
 ## Adding new features
 
