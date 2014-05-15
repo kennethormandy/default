@@ -55,4 +55,4 @@ We love pull requests. Here’s a quick guide:
 
 ## Adding new features
 
-Thinking of adding a new feature? Cool! [Open an issue](https://github.com/kennethormandy/type-tester/issues) and let’s design it together.
+Thinking of adding a new feature? Cool! [Open an issue](https://github.com/kennethormandy/default/issues) and let’s design it together.
