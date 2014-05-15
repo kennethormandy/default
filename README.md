@@ -11,7 +11,7 @@ A starting points for certain projects.
 Here’s where you write really fantastic instructions that helps people who may or may not even understand what Git is, use your project. For example, your sentences should probably be better than that one.
 
 ```bash
-git clone https://github.com/kennethormandy/default
+git clone https://github.com/kennethormandy/default new-project-name
 ```
 
 1. Replace “Default” and “default” with your new repository’s name
