@@ -11,7 +11,17 @@ A starting points for certain projects.
 Here’s where you write really fantastic instructions that helps people who may or may not even understand what Git is, use your project. For example, your sentences should probably be better than that one.
 
 ```bash
+npm install -g harp
+harp init -b kennethormandy/default
+```
+
+This prevents the Git history from being downloaded. And, hey, now you have [Harp](http://harpjs.com) installed, which is awesome anyway. If you want to go the Git route:
+
+```bash
 git clone https://github.com/kennethormandy/default new-project-name
+cd project-name
+# Please be careful…
+rm -rf .git
 ```
 
 1. Replace “Default” and “default” with your new repository’s name
@@ -24,14 +34,10 @@ git clone https://github.com/kennethormandy/default new-project-name
     Copyright © 2014 [Kenneth Ormandy](http://kennethormandy.com) & [Chloi Inc.](http://chloi.io)
     ```
 
-6. Change the remotes and reset history
+6. Initialise and add remotes:
 
     ```sh
-    # Carefully ensure you are where you want to be,
-    # and remove the existing git history
-    rm -rf .git/
-
-    # Re-initialise the project
+    # Initialise the project
     git init
 
     # Add your remote repository
