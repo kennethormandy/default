@@ -3,7 +3,7 @@
 
 # Logs
 logs
-*.log
+*.log*
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
@@ -15,4 +15,3 @@ bower_components
 
 # Compile directories
 www/
-_book/

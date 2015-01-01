@@ -9,6 +9,6 @@
   "repository": "git@github.com:kennethormandy/default.git",
   "keywords": [],
   "scripts": {
-    "test": "echo \"Error: no test specified…yet! Pull requests on kennethormandy/default are greatly appriciated.\" && exit 1"
+    "test": "echo \"Error: no test specified…yet! Pull requests on kennethormandy/default are greatly appreciated.\" && exit 1"
   }
 }
