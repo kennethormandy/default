@@ -6,7 +6,7 @@
   "author": "Kenneth Ormandy <hello@kennethormandy.com> (http://kennethormandy.com)",
   "license": "MIT",
   "private": true,
-  "repository": "git@github.com:kennethormandy/default.git",
+  "repository": "https://github.com/kennethormandy/default.git",
   "keywords": [],
   "scripts": {
     "test": "echo \"Error: no test specified…yet! Pull requests on kennethormandy/default are greatly appreciated.\" && exit 1"
